@@ -8,7 +8,7 @@ const BRANDS = [
   {
     id: "coca-cola",
     name: "Coca Cola",
-    logo: "/coca-cola-logo.png",
+    logo: "/lovable-uploads/d5abb83f-5029-427a-ac95-a8b1a6dbedc1.png",
   },
   {
     id: "wip",
